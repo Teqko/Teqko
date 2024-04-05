@@ -4,13 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teqko&label=Profile%20views&color=0e75b6&style=flat" alt="teqko" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
-- 🔭 I’m currently working on **game and web designs**
 
-- 🌱 I’m currently learning **JavaScript, HTML and CSS**
+- 🔭 I’m currently working on game and web designs
+
+- 🌱 Learning **JavaScript, HTML and CSS**
 
 - 💬 Ask me about **Cybersecurity**
 
-- 📫 How to reach me **redblueberry17@yahoo.com**
+- 📫 Reach me at: **redblueberry17@yahoo.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/joshuaramirez-cybersec/](https://www.linkedin.com/in/joshuaramirez-cybersec/)
 
