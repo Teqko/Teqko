@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Teqko
+- 👀 I’m interested in building games, websites and apps
+- 🌱 I’m currently learning HTML, CSS and Javascript, yes I'm a beginner
+- ⚡ Chess player, athlete, and gamer
